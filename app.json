@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/matching/matching",
+    "pages/team/team"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#3498db",
+    "navigationBarTitleText": "MaLou",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#ffffff"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
